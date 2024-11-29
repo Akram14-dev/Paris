@@ -1,3 +1,3 @@
 # Paris
-Paris Project
-Inspired By Elzero Web School
+#Paris Project.
+#Was Inspired By Elzero Web School
